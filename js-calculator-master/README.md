@@ -7,3 +7,4 @@ Simple Calculator Using Javascript
 Made as an assignment while learning Javascript
 
 Domo: https://ovi.github.io/js-calculator
+  
